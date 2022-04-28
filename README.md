@@ -1,6 +1,6 @@
 # apppeneus
 
-A new Flutter project.
+An app that shows how to route and validate/invalidate user session between many screens
 
 ## Getting Started
 
